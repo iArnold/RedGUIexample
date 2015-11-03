@@ -1,2 +1,0 @@
-# RedGUIexample
-blahblahblah
